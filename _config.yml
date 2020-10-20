@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "it-IT"
-title                    : "Your Name / Site Title"
+title                    : "About me - Muhamed Kouate"
 title_separator          : "-"
 name                     : &name "Muhamed Kouate"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "muhamedkouate"
   google_plus      :
   keybase          :
   instagram        :
