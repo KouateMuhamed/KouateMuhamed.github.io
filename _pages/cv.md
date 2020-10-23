@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Internet of Things, Big Data & Machine Learning, 2017 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* BidPremium, AI Engineer, March 2020 - Present
+  *  My role consists of the creation and implementation of Deep Learning models to solve   tasks mainly related to
+ Computer Vision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* University of Udine, Research Assistant in Computer Vision, September 2020 - Present
+  *  Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit
+ organization for students in STEM, with an acceptance rate below 20%.
 
-Publications
+* Lead The Future, Mentee, October 2020 - Present
+  * Research assistant – Department of Computer Science – Machine Learning and Perception Lab
+  Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with an acceptance rate below 20%.
+  LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs such as Silicon Valley and CERN.
+
+* Datamantix, AI Software Developer, November 2019 - March 2020
+  * Data cleaning and preparation
+  * Implenting appropriate Deep Learning algorithms using diffent libraries (Fasta.ai, Tensorflow)
+  * Model deployment
+
+Achievements
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mediterranean Machine Learning summer school, Student, (because of COVID-19)Incoming 11th – 15th January 2021
+ * Selected by DeepMind (Google) to participate in M2L. The Mediterranean Machine Learning summer school will be structured around 6 days of keynotes, lectures and practical sessions.
+Topics: Computer Vision, NLP, Generative models, Deep Reinforcement learning, Robotics, and many mores
+   Sponsored by: DeepMind, Bending Spoons, LTF, University of Milan.
+
+* Huawei “Lead For The Future”, Student, Incoming 9th – 13th November 2020
+  * Selected by Huawei amog TOP 50 Italian ICT students for the year 2020 to participate in the training program on topics such as: Artificial Intelligence, IOT, and many more

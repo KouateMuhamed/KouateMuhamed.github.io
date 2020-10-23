@@ -11,4 +11,4 @@ redirect_from:
 Student enrolled in the Bachelor's Degree in Internet of Things, Big Data & Machine Learning at the University of Udine.
 I work part-time as an AI Engineer and I'm Research Scientist at the [MLP](https://machinelearning.uniud.it/) laboratory at UNIUD.
 
-[RESUME](http://kouatemuhamed.github.io/files/MuhamedKouateResume2020.pdf)
+[Download my resume](http://kouatemuhamed.github.io/files/MuhamedKouateResume2020.pdf)
