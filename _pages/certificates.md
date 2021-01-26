@@ -7,4 +7,4 @@ redirect_from:
   - /certificate
 ---
 
-[Mediterranean Machine Learning Summer School](http://kouatemuhamed.github.io/files/certifactedm.pdf)
+[Mediterranean Machine Learning Summer School](http://kouatemuhamed.github.io/files/certificateedm.pdf)
