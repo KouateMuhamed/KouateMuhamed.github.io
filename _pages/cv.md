@@ -15,11 +15,18 @@ Education
 
 Work experience
 ======
+* **Stanford University, Visiting Student Researcher**, December 2020 - Present
+    Computational Neuroscience Laboratory (CNSLAB) under the supervision of Dr Ehsan Adeli, and Dr Niki Martinel
+
 * **BidPremium, AI Engineer**,            March 2020 - Present
-  *  My role consists of the creation and implementation of Deep Learning models to solve    tasks mainly related to Computer Vision
+  * Responsible for the defects detection pipeline, processing images of fabrics, cables, and lenses.
+    1) Analyzed the state-of-the-art to identify the most appropriate techniques for the task (papers, and surveys)
+    2) Collected a curated dataset with scripts in Python (CVAT, PASCAL VOC, COCO, and YOLO format)
+    3) Implemented the most promising models with Pytorch or Tensorflow, and tested their performance on the internal dataset
+
 
 * **University of Udine, Research Assistant in Computer Vision**, September 2020 - Present
-  * Research assistant – Department of Computer Science – Machine Learning and Perception Lab
+  * Research Assistant – Department of Computer Science – Machine Learning and Perception Lab
 
 * **Lead The Future, Mentee**,            October 2020 - Present
   * Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with an acceptance rate below 20%.
@@ -29,13 +36,3 @@ Work experience
   * Data cleaning and preparation
   * Implementing appropriate Deep Learning algorithms using diffent libraries (Fasta.ai, Tensorflow)
   * Model deployment
-
-Achievements
-======
-* **Mediterranean Machine Learning summer school, Student**,        Incoming 11th – 15th January 2021
-  * Selected by DeepMind (Google) to participate in M2L. The Mediterranean Machine Learning summer school will be structured around 6 days of keynotes, lectures and practical sessions.
-Topics: Computer Vision, NLP, Generative models, Deep Reinforcement learning, Robotics, and many mores
-   Sponsored by: DeepMind, Bending Spoons, LTF, University of Milan.
-
-* **Huawei “Lead For The Future”, Student**,            Incoming 9th – 13th November 2020
-  * Selected by Huawei amog TOP 50 Italian ICT students for the year 2020 to participate in the training program on topics such as: Artificial Intelligence, IOT, and many more
