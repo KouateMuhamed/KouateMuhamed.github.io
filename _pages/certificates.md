@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Certificates"
-permalink: /certificate/
+permalink: /certificates/
 author_profile: true
 redirect_from:
-  - /certificate
+  - /resume
 ---
 
-[Mediterranean Machine Learning Summer School](http://kouatemuhamed.github.io/files/certificateedm.pdf)
+[Mediterranean Machine Learning Summer School](http://kouatemuhamed.github.io/files/certificatedm.pdf)
