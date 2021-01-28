@@ -20,9 +20,9 @@ Work experience
 
 * **BidPremium, AI Engineer**,            March 2020 - Present
   * Responsible for the defects detection pipeline, processing images of fabrics, cables, and lenses.
-    1) Analyzed the state-of-the-art to identify the most appropriate techniques for the task (papers, and surveys)
-    2) Collected a curated dataset with scripts in Python (CVAT, PASCAL VOC, COCO, and YOLO format)
-    3) Implemented the most promising models with Pytorch or Tensorflow, and tested their performance on the internal dataset
+    * Analyzed the state-of-the-art to identify the most appropriate techniques for the task (papers, and surveys)
+    * Collected a curated dataset with scripts in Python (CVAT, PASCAL VOC, COCO, and YOLO format)
+    * Implemented the most promising models with Pytorch or Tensorflow, and tested their performance on the internal dataset
 
 
 * **University of Udine, Research Assistant in Computer Vision**, September 2020 - Present
@@ -33,6 +33,5 @@ Work experience
   LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs such as Silicon Valley and CERN.
 
 * **Datamantix, AI Software Developer**,            November 2019 - March 2020
-  * Data cleaning and preparation
-  * Implementing appropriate Deep Learning algorithms using diffent libraries (Fasta.ai, Tensorflow)
-  * Model deployment
+  Cleaned the datasets through Python scripts, and performed the training with Fast.ai
+  Project for which I actively contributed: detection of diabetic retinopathy through deep learning techniques.
