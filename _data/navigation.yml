@@ -14,12 +14,12 @@ main:
 
   - title: "CV"
     url: /cv/
-  - title: "Certificates"
-    url: /certificates/
   - title: "Code"
     url: https://github.com/KouateMuhamed
   - title: "Medium"
     url: https://medium.com/@contact.kouatemuhamed
+  - title: "Certificates"
+    url: /certificates/
 
 
   # - title: "Guide"
