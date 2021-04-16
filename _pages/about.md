@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 |**Email**: kouate[dot]muhamed[at]spes[dot]uniud[dot]it <br/>
-I am a Bachelor's student in Computer Science (minor in Internet of Things, Big Data & Machine Learning) at University of Udine.
+I am a Bachelor's student in Computer Science (minor in Internet of Things, Big Data & Machine Learning) at University of Udine. <br/>
 I am working with [Dr Ehsan Adeli](https://stanford.edu/~eadeli/) in the [Computational Neuroscience Lab](http://cnslab.stanford.edu/) at Stanford University, and Dr [Niki Martinel](https://users.dimi.uniud.it/~niki.martinel/)([MLP](https://machinelearning.uniud.it/)). <br/>
 Furthermore, I am part-time AI Engineer in Computer Vision at Bidpremium (Italy).
 
