@@ -12,7 +12,7 @@ redirect_from:
 <br/>
 I am a Bachelor's student in Computer Science (minor in Internet of Things, Big Data & Machine Learning) at University of Udine. <br/>
 I am working with [Dr Ehsan Adeli](https://stanford.edu/~eadeli/) in the [Computational Neuroscience Lab](http://cnslab.stanford.edu/) at Stanford University, and Dr [Niki Martinel](https://users.dimi.uniud.it/~niki.martinel/)([MLP](https://machinelearning.uniud.it/)). <br/>
-Furthermore, I am part-time AI Engineer in Computer Vision at Bidpremium (Italy).
+Furthermore, I am a part-time AI Engineer in Computer Vision at Bidpremium (Italy).
 
 My research interests lie in the field of Computer Vision, Machine Learning and Natural Language Processing. <br/>
 Currently, I am focusing on Video Summarization, Action Anticipation, and Medical Image Classification. [CV](http://kouatemuhamed.github.io/files/MuhamedKouateResume2020.pdf)
