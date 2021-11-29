@@ -16,9 +16,9 @@ Furthermore, I am a part-time AI Engineer in Computer Vision at Bidpremium (Ital
 
 My research interests lie in the field of Computer Vision, Machine Learning and Natural Language Processing. <br/>
 Currently, I am focusing on Video Summarization, Action Anticipation, and Medical Image Classification.<br/>
-[For more information, please see my CV](http://kouatemuhamed.github.io/files/CV.pdf)
+For more information, please see my [CV](http://kouatemuhamed.github.io/files/CV.pdf)
 
-When I'm not in front of books or a laptop, you can find me out and about on a mountain bike :bike: or in the mountains :mountain:
+When I'm not in front of books or a laptop, you can find me out and about on a mountain bike (https://github.githubassets.com/images/icons/emoji/unicode/26f0.png?v8) or in the mountains :mountain:
 
 ## Experience:
 
