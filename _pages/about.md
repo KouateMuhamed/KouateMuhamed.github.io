@@ -22,7 +22,7 @@ When I'm not in front of books or a laptop, you can find me out and about on a m
 
 ## Experience:
 
-- **Stanford University**, Visiting Student Researcher. Advisor: Ehsan Adeli, Niki Martinel (present)
+- **Stanford University**, Visiting Student Researcher. Supervisors: Ehsan Adeli, Niki Martinel (present)
 - **Towards Data Science**, AI Writer (present)
 - **Bidpremium**, AI Engineer in Computer Vision,part-time (present)
 - **Datamantix**, AI Software Developer in Computer vision, part-time (March 2020)
