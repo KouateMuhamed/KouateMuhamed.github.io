@@ -11,7 +11,7 @@ redirect_from:
 **Email**: kouate[dot]muhamed[at]spes[dot]uniud[dot]it <br/>
 <br/>
 I am a Bachelor's student in Computer Science (minor in Internet of Things, Big Data & Machine Learning) at Università degli studi di Udine (Italy). <br/>
-From April I will work as **Research Assistant** at [Biomedical Image Computing](https://bmic.ee.ethz.ch/) - ETH under the supervision of [Gustav Bredell] (https://bmic.ee.ethz.ch/people/person-details.gustav-bredell.html), Professor [Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and Professor [Niki Martinel] (https://users.dimi.uniud.it/~niki.martinel/). <br/>
+From April I will work as **Research Assistant** at [Biomedical Image Computing](https://bmic.ee.ethz.ch/) - ETH under the supervision of [Gustav Bredell](https://bmic.ee.ethz.ch/people/person-details.gustav-bredell.html), Professor [Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and Professor [Niki Martinel](https://users.dimi.uniud.it/~niki.martinel/). <br/>
 For more information, please see my [resume](http://kouatemuhamed.github.io/files/CV.pdf)
 
 Previously, I worked with Professor [Ehsan Adeli](https://stanford.edu/~eadeli/) as a **Visiting Student** Researcher at the [Computational Neuroscience Lab](http://cnslab.stanford.edu/) at Stanford University. <br/>
