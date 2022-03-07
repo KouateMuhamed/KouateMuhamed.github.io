@@ -14,7 +14,7 @@ I am a Bachelor's student in Computer Science (minor in Internet of Things, Big 
 From April I will work as **Research Assistant** at [Biomedical Image Computing](https://bmic.ee.ethz.ch/) - ETH under the supervision of [Gustav Bredell](https://bmic.ee.ethz.ch/people/person-details.gustav-bredell.html), Professor [Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and Professor [Niki Martinel](https://users.dimi.uniud.it/~niki.martinel/). <br/>
 For more information, please see my [resume](http://kouatemuhamed.github.io/files/CV.pdf)
 
-Previously, I worked with Professor [Ehsan Adeli](https://stanford.edu/~eadeli/) as a **Visiting Student** Researcher at the [Computational Neuroscience Lab](http://cnslab.stanford.edu/) at Stanford University. <br/>
+Previously, I worked with Professor [Ehsan Adeli](https://stanford.edu/~eadeli/) as a **Visiting Student Researcher** at the [Computational Neuroscience Lab](http://cnslab.stanford.edu/) at Stanford University. <br/>
 Furthermore, I am a part-time AI Engineer in Computer Vision at Bidpremium (Italy).
 
 My research interests lie in the field of Computer Vision, Machine Learning and Natural Language Processing. <br/>
