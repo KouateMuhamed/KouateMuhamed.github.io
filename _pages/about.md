@@ -23,9 +23,9 @@ Currently, I am focusing on Video Summarization, Action Anticipation, and Medica
 
 
 ## Experience:
-- **Google**, Student Researcher. Supervisor: Lucas Dixon (Incoming - October 2022)
-- **ETH**, Research Assistant. Supervisors: Ehsan Adeli, Niki Martinel (Incoming - April 2022)
-- **Stanford University**, Visiting Student Researcher. Supervisors: Ehsan Adeli, Niki Martinel (March 2021 - October 2021)
+- **Google**, Student Researcher at PAIR (Incoming - October 2022)
+- **ETH**, Research Assistant (Incoming - April 2022)
+- **Stanford University**, Visiting Student Researcher (March 2021 - October 2021)
 - **Towards Data Science**, AI Writer (present)
 - **Bidpremium**, AI Engineer in Computer Vision,part-time (present)
 - **Datamantix**, AI Software Developer in Computer vision, part-time (March 2020)
