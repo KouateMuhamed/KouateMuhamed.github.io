@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Email**: kouate[dot]muhamed[at]spes[dot]uniud[dot]it <br/>
+**Academic e-mail**: kouate[dot]muhamed[at]spes[dot]uniud[dot]it <br/>
+**Industry e-mail**: kouate[at]google[dot]com <br/>
 <br/>
 I am a Student Researcher at Google@[PAIR](https://research.google/teams/brain/pair/), and a Bachelor's student in Computer Science (minor in Internet of Things, Big Data & Machine Learning) at Università degli studi di Udine (Italy). <br/>
 From April '22 I'm working as **Research Assistant** at [Biomedical Image Computing](https://bmic.ee.ethz.ch/) - ETH under the supervision of [Gustav Bredell](https://bmic.ee.ethz.ch/people/person-details.gustav-bredell.html), and  Professor [Ender Konukoglu](http://people.ee.ethz.ch/~kender/) on 3D Segmentation Reconstruction for Lumbar Spine. <br/>
